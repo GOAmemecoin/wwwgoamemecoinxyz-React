@@ -2,6 +2,7 @@
   "name": "wwwgoamemecoinxyz",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@craco/craco": "^7.1.0",
     "react": "^17.0.2",
@@ -12,7 +13,6 @@
     "next": "^12.1.10"
   },
   "scripts": {
-    "homepage": ".",
     "start": "craco start",
     "build": "craco build",
     "test": "craco test --env=jsdom",
